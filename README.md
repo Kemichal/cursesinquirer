@@ -27,6 +27,9 @@ The [builtin](cursesinquirer/builtins.py) question components does not have a lo
 That said you can create your own to suite your needs.
 Create a class that inherits from the abstract base class [Question](cursesinquirer/question.py) and implement the necessary methods.
 
+## Limitations
+See [issues](issues).
+
 ## Similar libraries
 Here is a list of similar libraries that have been an inspiration to this library and might fit your needs better.
 * [Inquirer](https://github.com/magmax/python-inquirer)
@@ -34,4 +37,4 @@ Here is a list of similar libraries that have been an inspiration to this librar
 * [Picker](https://github.com/pp19dd/picker)
 
 ## License
-MIT, see `LICENSE` file.
+MIT, see [LICENSE](LICENSE) file.
