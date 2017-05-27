@@ -28,7 +28,7 @@ That said you can create your own to suite your needs.
 Create a class that inherits from the abstract base class [Question](cursesinquirer/question.py) and implement the necessary methods.
 
 ## Limitations
-See [issues](issues).
+See [issues](../../issues).
 
 ## Similar libraries
 Here is a list of similar libraries that have been an inspiration to this library and might fit your needs better.
