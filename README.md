@@ -1,4 +1,4 @@
-# Curses Inquirer
+# Curses Inquirer [![PyPI](https://img.shields.io/pypi/v/cursesinquirer.svg)](https://pypi.python.org/pypi/cursesinquirer)
 A python library to create curses based CLIs.
 
 ## Usage
