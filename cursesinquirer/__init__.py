@@ -7,7 +7,7 @@ import traceback
 
 from .builtins import MultiSelect, Print, Text, YesNo, Select
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 
 
 class CursesInquirer:
